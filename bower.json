@@ -1,0 +1,14 @@
+{
+  "name": "start_html",
+  "version": "2.0.0",
+  "authors": [
+    "Dmitry Tkachenko <dima-tkachenko@mail.ru>"
+  ],
+  "dependencies": {
+    "font-awesome": "latest",
+    "jquery": "latest",
+    "waypoints": "latest",
+    "normalize-css": "normalize.css#latest",
+    "matchHeight": "latest"
+  }
+}
